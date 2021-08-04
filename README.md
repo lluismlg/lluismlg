@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lluismlg
-- 👀 I’m interested in Android and web development
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in web development
+- 🌱 I’m currently working as a TSR for GCP
 - 📫 How to reach me lluismlg97@gmail.com
 
 <!---
